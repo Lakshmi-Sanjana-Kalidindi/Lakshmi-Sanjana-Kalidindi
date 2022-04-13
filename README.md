@@ -16,6 +16,3 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-sanjanakalidindi5595@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sanjanakalidindi5595@gmail.com)](sanjanakalidindi5595@gmail.com)
-
-------
-Credit: [Lakshmi-Sanjana-Kalidindi](https://github.com/Lakshmi-Sanjana-Kalidindi)
