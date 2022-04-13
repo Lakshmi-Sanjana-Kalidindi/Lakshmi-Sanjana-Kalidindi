@@ -1,42 +1,22 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at New York University
+### :smiley_cat: I am Lakshmi Sanjana Kalidindi,a student at New York University!
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Lakshmi-Sanjana-Kalidindi&show_icons=true&theme=tokyonight)
+![Lakshmi-Sanjana-Kalidindi's github stats](https://github-readme-stats.vercel.app/api?username=Lakshmi-Sanjana-Kalidindi&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmi-Sanjana-Kalidindi&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Sanjana-Kalidindi&theme=tokyonight&layout=compact)
+![Lakshmi-Sanjana-Kalidindi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Sanjana-Kalidindi&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
+🌱 I’m currently in my Spring Semester and working on Machine Learning and Database Projects
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
-
-
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:sanjanakalidindi5595@gmail.com)](sanjanakalidindi5595@gmail.com)
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
-
-Last Edited on: 21/08/2021
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Credit: [Lakshmi-Sanjana-Kalidindi](https://github.com/AkuraDiary)
