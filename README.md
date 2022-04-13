@@ -19,4 +19,4 @@
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
-Credit: [Lakshmi-Sanjana-Kalidindi](https://github.com/AkuraDiary)
+Credit: [Lakshmi-Sanjana-Kalidindi](https://github.com/Lakshmi-Sanjana-Kalidindi)
